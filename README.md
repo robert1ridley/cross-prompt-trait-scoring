@@ -32,4 +32,4 @@ Handcrafted features have been pre-calculated and can be found at `data/hand_cra
 additional readability features (`data/allreadability.pickle`). The code used to generate these features
 can be found in `features.py` and `create_readability_features.py` respectively. If you wish to regenerate the features,
 you will also need to install the 'textstat', 'spacy' (along with the 'en_core_web_sm' model), and 'readability' 
-(use`pip install https://github.com/andreasvc/readability/tarball/master`) packages.
+(use `pip install https://github.com/andreasvc/readability/tarball/master`) packages.
